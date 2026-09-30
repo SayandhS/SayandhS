@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayandh Puthiya Purayil S</h1>
+<h1 align="center">Hi 👋, I'm Sayandh Puthiya Purayil </h1>
 <h3 align="center">Aspiring Data Analyst | Future Data Engineer | B.Tech IT Graduate</h3>
 
 <p align="center">
