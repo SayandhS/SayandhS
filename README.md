@@ -2,10 +2,10 @@
 <h3 align="center">Aspiring Data Analyst | Future Data Engineer | B.Tech IT Graduate</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sayandh-p-p">
+  <a href="https://www.linkedin.com/in/sayandh-p-p">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="(https://github.com/SayandhS)">
+  <a href="https://github.com/SayandhS">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
