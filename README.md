@@ -186,7 +186,7 @@ I enjoy connecting with professionals in:
 
 If you're working in the data space or have opportunities for aspiring data professionals, feel free to connect.
 
-💼 LinkedIn: www.linkedin.com/in/sayandh-puthiya-purayil-48443b28b
+💼 LinkedIn: wwww.linkedin.com/in/sayandh-p-p
 
 🐙 GitHub: (https://github.com/SayandhS)
 
