@@ -122,20 +122,19 @@ Designed and developed a modern SQL Data Warehouse from scratch using PostgreSQL
 
 ---
 
-### 📊 Vrinda Store Sales Analysis Dashboard
+### 📈 Retail Customer Behaviour Analytics Platform
 
-Analyzed retail sales data and created an interactive Excel dashboard to identify business trends and performance metrics.
+This project analyzes customer shopping behavior using transactional retail data containing **3,900 customer purchases** across multiple product categories.
 
-#### Insights Generated
+#### Key Highlights
 
-- Monthly sales performance
-- Customer demographics
-- Order status analysis
-- Channel performance
-- State-wise sales contribution
-- Category-level analysis
+- Cleaning and preparing data using Python
+- Storing and querying data in PostgreSQL
+- Performing business-focused SQL analysis
+- Building an interactive Power BI dashboard
+- Generating data-driven recommendations
 
-**Technologies:** Excel, Pivot Tables, Dashboards
+**Technologies:** Python, Jupyter Notebook, PostgreSQL, SQL, PowerBI, Data Analytics, Busines Analytics
 
 ---
 
