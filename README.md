@@ -139,19 +139,21 @@ Analyzed retail sales data and created an interactive Excel dashboard to identif
 
 ---
 
-### 🔍 SQL Exploratory Data Analysis Project
+### 📊 Vrinda Store Sales Analysis Dashboard
 
-Performed data exploration and business analysis using SQL.
+Analyzed retail sales data and created an interactive Excel dashboard to identify business trends and performance metrics.
 
-#### Areas Covered
+#### Insights Generated
 
-- Sales analysis
-- Customer behavior analysis
-- Product performance
-- Trend identification
-- KPI generation
+- Monthly sales performance
+- Customer demographics
+- Order status analysis
+- Channel performance
+- State-wise sales contribution
+- Category-level analysis
 
-**Technologies:** SQL, PostgreSQL
+**Technologies:** Excel, Pivot Tables, Dashboards
+
 
 ---
 
