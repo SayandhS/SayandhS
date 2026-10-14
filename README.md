@@ -122,7 +122,7 @@ Designed and developed a modern SQL Data Warehouse from scratch using PostgreSQL
 
 ---
 
-### 📈 Retail Customer Behaviour Analytics Platform
+### ⭐ Retail Customer Behaviour Analytics Platform
 
 This project analyzes customer shopping behavior using transactional retail data containing **3,900 customer purchases** across multiple product categories.
 
